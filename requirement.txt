@@ -1,0 +1,38 @@
+SELECT:
+    Lấy danh sách khách hàng trong ngày
+    Lấy danh sách đơn hàng trong ngày
+
+    Lấy danh sách đơn hàng từ mã khách hàng cho trước (CUSTOMER_ID)
+    Lấy điểm của từ mã khách hàng cho trước
+    Lấy thông tin khách hàng từ mã đơn hàng cho trước
+
+    Lấy thông tin đơn hàng từ mã đơn hàng cho trước (PACKAGE_ID)
+    Lấy thông tin hàng hóa từ mã đơn hàng cho trước
+    Lấy thông tin khách hàng và thu ngân từ mã đơn hàng cho trước
+
+    Lấy danh sách nhân viên chăm sóc khách hàng, nhân viên thu ngân, quản lý từ mã siêu thị cho trước (MARKET_ID)
+    Lấy thông tin siêu thị từ mã siêu thị cho trước
+    Lấy danh sách hàng hóa ở siêu thị từ mã siêu thị cho trước
+    
+    Lấy danh sách thành viên từ mã nhóm cho trước (GROUP_ID)
+    Lấy danh sách khuyến mãi từ mã nhóm cho trước
+
+INSERT:
+    Thêm một khách hàng
+    Thêm siêu thị
+    Thêm nhân viên chăm sóc khách hàng, thu ngân, quản lý
+    Thêm KPI cho NV thu ngân
+    Thêm đơn hàng
+    Thêm Hàng điện tử, Thức ăn, Đồ gia dụng
+    Thêm Nhóm khách hàng
+    Thêm Khuyễn mãi
+
+
+DELETE:
+    Xóa một khách hàng
+    Xóa siêu thị
+    Xóa nhân viên chăm sóc khách hàng, thu ngân, quản lý
+    Xoá đơn hàng
+    Xoá Hàng điện tử, Thức ăn, Đồ gia dụng
+    Xoá Nhóm khách hàng
+    Xoá Khuyễn mãi
